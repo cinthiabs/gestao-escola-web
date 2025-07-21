@@ -1,6 +1,6 @@
-# .
+# Gestão Escolar
 
-This template should help get you started developing with Vue 3 in Vite.
+Este é um sistema de gestão de alunos, turmas e matrículas feito em **Vue 3**. O projeto utiliza Node.js na versão **v21.6.0** como ambiente de execução.
 
 ## Recommended IDE Setup
 
@@ -16,7 +16,7 @@ See [Vite Configuration Reference](https://vite.dev/config/).
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Compile the Project
 
 ```sh
 npm run dev
@@ -26,10 +26,4 @@ npm run dev
 
 ```sh
 npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
 ```
